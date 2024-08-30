@@ -34,5 +34,6 @@
 ## Project Interests
 
 - I would like to develop a mobile application.
+- Specifications of the application are still being brainstormed but I am open to any ideas.
 - I would like to have this application available for download by the end of our project.
 - The purpose of this is not only to further develop app development skills, both front-end and back-end, but to also learn what it takes to create and successfully launch an app to the public.
