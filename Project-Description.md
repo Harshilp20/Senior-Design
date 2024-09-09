@@ -1,6 +1,6 @@
 # Project Description
 
-### Team
+### Team: BKHP
 
 - Harshil Patel (CS)
 - - Email: patel3hs@mail.uc.edu
