@@ -1,0 +1,28 @@
+Task,Start Date,End Date,Milestone,Milestone Completion
+Research existing memory protection techniques,08/26/2024,09/02/2024,Project Definition,09/09/2024
+Design memory protection module,09/03/2024,09/09/2024,System Architecture Design,09/09/2024
+Develop memory protection module,09/10/2024,09/23/2024,,
+Test memory protection module,09/24/2024,09/30/2024,,
+Validate memory protection,10/01/2024,10/07/2024,Detailed Component Design,10/07/2024
+Research code integrity checking mechanisms,09/10/2024,09/16/2024,,
+Design code integrity check module,09/17/2024,09/23/2024,,
+Implement hash verification,09/24/2024,09/30/2024,,
+Test code integrity check module,10/01/2024,10/07/2024,,
+Document code integrity checking process,10/08/2024,10/14/2024,Technical Specification,10/14/2024
+Investigate cheating patterns,10/08/2024,10/14/2024,,
+Design behavior analysis patterns,10/15/2024,10/21/2024,,
+Develop heuristic detection,10/22/2024,10/28/2024,,
+Test behavior analysis module,10/29/2024,11/04/2024,,
+Refine detection algorithms,11/05/2024,11/11/2024,Behavior Analysis Completion,11/11/2024
+Research network traffic monitoring methods,11/05/2024,11/11/2024,,
+Design network behavior analysis module,11/12/2024,11/18/2024,,
+Develop network monitoring tool,11/19/2024,11/25/2024,,
+Test network behavior analysis,11/26/2024,12/02/2024,,
+Refine network traffic rules,12/03/2024,12/07/2024,Network Monitoring Completion,12/07/2024
+Design user interface,10/15/2024,10/21/2024,,
+Develop web interface,10/22/2024,10/28/2024,,
+Integrate threat detection engine with web interface,10/29/2024,11/04/2024,,
+Test web interface,11/05/2024,11/11/2024,,
+Document web interface,11/12/2024,11/18/2024,Web Interface Completion,11/18/2024
+Design review and presentation preparation,12/01/2024,12/07/2024,Design Review,12/07/2024
+Fall Design Report and final presentation,12/08/2024,12/14/2024,Final Presentation,12/14/2024
