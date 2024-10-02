@@ -1,0 +1,23 @@
+Task,Bartosz Kawalkowski,Harshil Patel,Task Type,Estimated Hours,Priority
+Project definition and research,50%,50%,Research,8,High
+System architecture design,55%,45%,Design,10,High
+Detailed component design,60%,40%,Design,12,High
+Technical specification,65%,35%,Documentation,8,Medium
+Memory protection module design,70%,30%,Design,8,High
+Memory protection module implementation,75%,25%,Implementation,12,High
+Memory protection module testing,65%,35%,Testing,8,Medium
+Code integrity check module design,65%,35%,Design,8,High
+Code integrity check module implementation,70%,30%,Implementation,12,High
+Code integrity check module testing,60%,40%,Testing,8,Medium
+Behavior analysis subsystem planning,60%,40%,Planning,8,Medium
+Behavior analysis subsystem implementation,65%,35%,Implementation,12,High
+Behavior analysis subsystem testing,55%,45%,Testing,8,Medium
+Network monitoring subsystem planning,55%,45%,Planning,8,Medium
+Network monitoring subsystem implementation,60%,40%,Implementation,12,High
+Network monitoring subsystem testing,50%,50%,Testing,8,Medium
+Web interface design,40%,60%,Design,10,High
+Web interface development,45%,55%,Implementation,12,High
+Web interface integration,50%,50%,Implementation,8,Medium
+Web interface testing,45%,55%,Testing,8,Medium
+Design review and presentation preparation,55%,45%,Documentation,8,High
+Fall Design Report and final presentation,60%,40%,Documentation,10,High
