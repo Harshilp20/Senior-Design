@@ -1,6 +1,7 @@
 # Fall Senior Design Project Table of Contents
 
 Team Members: Harshil Patel (patel3hs@mail.uc.edu) (CS) & Bartosz Kawalkowski (kawalkba@mail.uc.edu) (CS)
+
 Academic Advisor: Nitin Nitin (nitinfu@ucmail.uc.edu
 
 ## Project Abstract
@@ -11,7 +12,7 @@ The Windows Process Protector is an anti-cheat system designed to monitor and sa
 
 - [User Stories](https://github.com/Harshilp20/Senior-Design/blob/main/User-Stories.md)
 - [Design Diagrams](https://github.com/Harshilp20/Senior-Design/blob/main/Class-Assignments/Design_Diagrams.pdf)
-- - This link for the Design Diagrams will show D0, D1, and D2 diagrams along with their descriptions
+  - This link for the Design Diagrams will show D0, D1, and D2 diagrams along with their descriptions
 
 # Project Tasks and Timeline
 
@@ -21,7 +22,7 @@ The Windows Process Protector is an anti-cheat system designed to monitor and sa
 
 # ABET Concerns
 
-- Project Constraints (https://github.com/Harshilp20/Senior-Design/blob/main/ConstraintEssay.md)
+- [Project Constraints](https://github.com/Harshilp20/Senior-Design/blob/main/ConstraintEssay.md)
 
 # PPT Slideshow
 
