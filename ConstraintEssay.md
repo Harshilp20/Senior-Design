@@ -1,5 +1,5 @@
 ## Economical Constraints
-Windows Process Protector is an anti-cheat system where several constraints must be considered. First, we must address that we are using a limited budged, this is an economic constraint that must be considered. Our team will be using open sourced tools, but this can limit our potential from implementing more advanced features that can further meet user needs.
+Windows Process Protector is an anti-cheat system where several constraints must be considered. First, we must address that we are using a limited budget, this is an economic constraint that must be considered. Our team will be using open sourced tools, but this can limit our potential from implementing more advanced features that can further meet user needs.
 
 ## Legal Constraints
 Our system actively monitors running processes, here we also must address legal constraints. We need to ensure our users that their data is protected, and we must follow privacy laws. We need to gain the user’s consent to collect their data and explain how it will be used in our system. This will help avoid any legal trouble in the future.
