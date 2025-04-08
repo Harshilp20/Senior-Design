@@ -20,6 +20,8 @@ The Windows Process Protector is an anti-cheat system designed to monitor and sa
 
 # User Manual
 
+Our current User Manual with details about our software and strategies can be found [here](https://github.com/Harshilp20/Senior-Design/blob/main/WindowsProcessProtector_ResearchDocument.pdf)
+
 # Spring Final PPT Presentation
 
 - [Click here to view Presentation]()
