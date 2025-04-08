@@ -34,6 +34,32 @@ The Windows Process Protector is an anti-cheat system designed to monitor and sa
 
 # Summary of Hours and Justification
 
+### Harshil Patel
+
+- Fall Semester Hours: 45 hrs
+- Spring Semester Hours: 90 hrs
+- Total Hours: 135 hrs
+
+Justification:
+
+Throughout the year, I worked extensively on designing and implementing major components of the Windows Process Protector. My efforts were focused on the memory protection module, code integrity checks, behavior analysis, and network monitoring subsystems. I led the development of the web interface and took charge of real-time dashboard features. I also handled testing for all subsystems and ensured the system performed reliably under real-world scenarios. I contributed equally to documentation and presentations, including the Final Report and Expo preparation. Tasks were verified through meeting notes and development logs in our GitHub repository.
+
+[Meeting Notes and Logs]()
+
+### Bartosz Kawalkowski
+
+- Fall Semester Hours: 45 hrs
+- Spring Semester Hours: 100 hrs
+- Total Hours: 145 hrs
+
+Justification:
+
+Over the course of the project, I led the system architecture design and core development of memory protection and code integrity verification modules. I performed in-depth research on Windows kernel security and anti-cheat strategies. I also developed much of the backend logic for the behavior and network monitoring subsystems. I was heavily involved in writing the technical specification and documentation. I contributed equally to design reviews, testing strategy, and final deliverables including the Final Design Report and Expo presentation.
+
+[Meeting Notes and Logs]()
+
+### Total Hours on Project: 280 Hours
+
 - [Task List](https://github.com/Harshilp20/Senior-Design/blob/main/TaskList.md)
 - [Timeline](https://github.com/Harshilp20/Senior-Design/blob/main/Assignment6Timeline.csv)
 - [Effort Matrix](https://github.com/Harshilp20/Senior-Design/blob/main/Assignment6EffortMatrix.csv)
@@ -47,8 +73,9 @@ The Windows Process Protector is an anti-cheat system designed to monitor and sa
 
 - There have not been any expenses for this project up to this date. We have utilized our own equipment and open source tools.
 - We have used the following tools:
-  - Visual Studio
-  - 
+  - Visual Studio 2022 (Personal License)
+  - GitHub (Used for CI/CD tools, also free)
+  - We used our personal machines for development as well
 
 # Appendix
 
