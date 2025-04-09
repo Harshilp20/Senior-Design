@@ -27,7 +27,9 @@ Our current User Manual with details about our software and strategies can be fo
 - [Click here to view Presentation]()
 - [Click here to view Slides]()
 
-# Test Plan and Results
+# Final Expo Poster
+
+Our final Expo Poster can be found [here](https://github.com/Harshilp20/Senior-Design/blob/main/Windows_Process_Protector.pdf)
 
 
 # Self Assessment Essays
