@@ -46,8 +46,6 @@ Justification:
 
 Throughout the year, I worked extensively on designing and implementing major components of the Windows Process Protector. My efforts were focused on the memory protection module, code integrity checks, behavior analysis, and network monitoring subsystems. I led the development of the web interface and took charge of real-time dashboard features. I also handled testing for all subsystems and ensured the system performed reliably under real-world scenarios. I contributed equally to documentation and presentations, including the Final Report and Expo preparation. Tasks were verified through meeting notes and development logs in our GitHub repository.
 
-[Meeting Notes and Logs]()
-
 ### Bartosz Kawalkowski
 
 - Fall Semester Hours: 45 hrs
@@ -58,7 +56,7 @@ Justification:
 
 Over the course of the project, I led the system architecture design and core development of memory protection and code integrity verification modules. I performed in-depth research on Windows kernel security and anti-cheat strategies. I also developed much of the backend logic for the behavior and network monitoring subsystems. I was heavily involved in writing the technical specification and documentation. I contributed equally to design reviews, testing strategy, and final deliverables including the Final Design Report and Expo presentation.
 
-[Meeting Notes and Logs]()
+[Meeting Notes and Logs](https://github.com/Harshilp20/Senior-Design/blob/main/WindowsProcessProtector_MeetingNotes.pdf)
 
 ### Total Hours on Project: 280 Hours
 
@@ -81,7 +79,7 @@ Over the course of the project, I led the system architecture design and core de
 
 # Appendix
 
-- All meeting notes have been documented, access these notes [here](https://github.com/Harshilp20/Senior-Design/blob/main/WindowsProcessProtector_FS2024_MeetingNotes.pdf)
+- All meeting notes and time spent has been documented, access these notes [here](https://github.com/Harshilp20/Senior-Design/blob/main/WindowsProcessProtector_MeetingNotes.pdf)
 - A summary of the research conducted for this assignment can be found [here](https://github.com/Harshilp20/Senior-Design/blob/main/WindowsProcessProtector_ResearchDocument.pdf)
 - Our current source code for the Windows Process Protector w/ Interactive Web-based Monitoring can be found on GitHub [here](https://github.com/BartoszK002/WPP)
 
