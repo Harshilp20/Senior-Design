@@ -19,6 +19,7 @@ The Windows Process Protector is an anti-cheat system designed to monitor and sa
 # Test Plan and Results
 
 The Windows Process Protector's protection DLL implements four sophisticated security mechanisms to defend processes against common attack vectors:
+
 PE Header Encryption provides fundamental protection by XOR-encrypting the first 4KB of process memory containing critical DOS and PE headers. This renders the executable's structure and entry points unreadable to static analysis tools while maintaining a backup of the original headers for legitimate program execution. When enabled, the protection carefully modifies memory protection attributes to make the headers writable, applies the encryption key to each byte, and then restores the original protection, effectively obfuscating important metadata like section tables, import directories, and entry points.
 
 Memory Scan Detection employs a strategic approach by allocating special "canary" memory regions and monitoring the system's working set information through low-level NT API calls. By examining which memory pages appear in the working set, the system can detect when debugging tools or malware attempt to scan or read process memory. Upon detection, it captures detailed information about the scanning process including PID, process name, and timestamp, then alerts the user through a security notification. This effectively identifies tools attempting memory inspection without authorization.
