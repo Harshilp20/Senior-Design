@@ -24,7 +24,6 @@ Our current User Manual with details about our software and strategies can be fo
 
 # Spring Final PPT Presentation
 
-- [Click here to view Presentation]()
 - [Click here to view Slides]()
 
 # Final Expo Poster
@@ -35,9 +34,9 @@ Our final Expo Poster can be found [here](https://github.com/Harshilp20/Senior-D
 # Self Assessment Essays
 
 - [Bartosz Kawalkowski Fall Initial Assessment](https://github.com/Harshilp20/Senior-Design/blob/main/Class-Assignments/Assignment3_kawalkba.pdf)
-- [Bartosz Kawalkowski Final Assessment]()
+- [Bartosz Kawalkowski Final Assessment](https://github.com/Harshilp20/Senior-Design/blob/main/Class-Assignments/CS5002_Assignment6_BartoszKawalkowski.pdf)
 - [Harshil Patel Initial Assessment](https://github.com/Harshilp20/Senior-Design/blob/main/Class-Assignments/Assignment3_patel3hs.pdf)
-- [Harshil Patel Final Assessment]()
+- [Harshil Patel Final Assessment](https://github.com/Harshilp20/Senior-Design/blob/main/Class-Assignments/CS5002_Assignment6_HarshilPatel.pdf)
 
 # Summary of Hours and Justification
 
