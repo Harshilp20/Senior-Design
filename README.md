@@ -2,7 +2,7 @@
 
 Team Members: Harshil Patel (patel3hs@mail.uc.edu) (CS) & Bartosz Kawalkowski (kawalkba@mail.uc.edu) (CS)
 
-Academic Advisor: Nitin Nitin (nitinfu@ucmail.uc.edu
+Academic Advisor: Nitin Nitin (nitinfu@ucmail.uc.edu)
 
 ## Project Abstract
 
