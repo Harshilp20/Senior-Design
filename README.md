@@ -48,7 +48,7 @@ Our current User Manual with details about our software and strategies can be fo
 
 # Spring Final PPT Presentation
 
-- [Click here to view Slides]()
+- [Click here to view Slides](https://github.com/Harshilp20/Senior-Design/blob/main/Class-Assignments/WindowsProcessProtector_Spring2025_Assignment3.pptx)
 
 # Final Expo Poster
 
