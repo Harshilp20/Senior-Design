@@ -29,17 +29,17 @@ Thread Monitoring provides an advanced defense layer by mapping all legitimate c
 #### Showcasing Encryption Of PE Headers
 
 - Click [here](https://gyazo.com/1ba593b026f0f37104ae013b4dff1962)
-- [Detection Pop-up image]()
+- [Detection Pop-up image](https://github.com/Harshilp20/Senior-Design/blob/main/Testing/InvalidPEFile.png)
 
 #### Showcase Anti-Tampering (Detects CODE or RDATA Modifications)
 
 - Click [here](https://gyazo.com/744e8fd44c80ea856f4bbdc621d8b92a)
-- [Detection Pop-up image]()
+- [Detection Pop-up image](https://github.com/Harshilp20/Senior-Design/blob/main/Testing/UnauthorizedCodeTampering.png)
 
 #### Showcasing Suspicious Thread Detection/Thread Monitoring
 
 - Click [here](https://gyazo.com/4bdba0c8e19dd8b0d17f365d5e1cc46e)
-- [Detection Pop-up image]()
+- [Detection Pop-up image](https://github.com/Harshilp20/Senior-Design/blob/main/Testing/SuspiciousThreadDetected.png)
 
 
 # User Manual
