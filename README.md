@@ -24,12 +24,17 @@ Memory Scan Detection employs a strategic approach by allocating special "canary
 Anti-Tampering protection implements continuous runtime integrity verification for critical code sections. It identifies read-only executable sections like .text and .rdata, calculates precise CRC32 hashes of their contents during initialization, and then periodically recalculates these hashes to detect any modifications. A dedicated monitoring thread performs these checks at regular intervals, immediately alerting users if any unauthorized code modifications are detected. This protects against runtime code patching, hot-patching, and similar code injection techniques.
 Thread Monitoring provides an advanced defense layer by mapping all legitimate code regions from loaded modules, then continuously scanning for threads whose execution begins from unexpected memory locations. The protection maintains a detailed registry of all loaded module address ranges and uses the NtQueryInformationThread API to retrieve thread start addresses. When threads originate from memory regions outside known modules—a common indicator of shellcode injection—the system captures comprehensive diagnostic information including thread IDs, start addresses, and related process details before alerting the user to the potential security breach.
 
-### We Have Currently Demoed the 3 Major Tests As Well:
+### We Have Currently Demoed the 4 Major Tests As Well:
 
 #### Showcasing Encryption Of PE Headers
 
 - Click [here](https://gyazo.com/1ba593b026f0f37104ae013b4dff1962)
 - [Detection Pop-up image](https://github.com/Harshilp20/Senior-Design/blob/main/Testing/InvalidPEFile.png)
+
+#### Showcasing Detection of Unauthorized Memory Scanning
+
+- Click [here](https://gyazo.com/617efe398e5087488947c523e75842a2)
+- [Detection Pop-up image](https://github.com/Harshilp20/Senior-Design/blob/main/Testing/memoryscanDT.png)
 
 #### Showcase Anti-Tampering (Detects CODE or RDATA Modifications)
 
