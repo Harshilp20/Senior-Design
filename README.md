@@ -6,7 +6,7 @@ Academic Advisor: Nitin Nitin (nitinfu@ucmail.uc.edu)
 
 ## Project Abstract
 
-The Windows Process Protector is an anti-cheat system designed to monitor and safeguard Windows application processes from unauthorized access. By leveraging techniques like memory protection, code integrity checks, and process monitoring, the system ensures secure and reliable application performance. The project includes a user-friendly web interface that allows users to monitor running processes, receive alerts about potential threats, and prevent malicious activities. This system prioritizes privacy and data security while addressing key challenges in cybersecurity and gaming fairness. Developed with a focus on professional growth, the project integrates knowledge from operating systems, software engineering, and real-world software development practices.
+The Windows Process Protector is an "anti-cheat" system designed to monitor and safeguard Windows application processes from unauthorized access. By leveraging techniques like memory protection, code integrity checks, and process monitoring, the system ensures secure and reliable application performance. The project includes a user-friendly web interface that allows users to monitor running processes, receive alerts about potential threats, and prevent malicious activities. This system prioritizes privacy and data security while addressing key challenges in cybersecurity and gaming fairness. Developed with a focus on professional growth, the project integrates knowledge from operating systems, software engineering, and real-world software development practices. It can be thought of as an advanced task manager / process monitor with protection features and capabilities.
 
 # User Interface Specification
 
